@@ -1,0 +1,45 @@
+button {
+    display: flex;
+    background: #e24343;
+    color: #fff;
+    padding: 0 45px;
+    border: 2px solid #fff;
+    border-radius: 25px;
+    height: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: 0.4s;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.botoes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* centraliza horizontalmente */
+    gap: 10px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #ac0042bb;
+}
+
+.paragrafo {
+    font-size: 30px;
+    font-family: helvetica;
+    background: linear-gradient(90deg, #ffff00, #ff9900, #ff3300);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    text-shadow:
+        0 0 15px #ffea00,
+        0 0 30px #ffb700,
+        0 0 60px #ff8800;
+
+    animation: brilho 2s infinite;
+}
