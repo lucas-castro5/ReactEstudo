@@ -1,0 +1,23 @@
+.search_container {
+    max-width: 800px;
+
+    margin: 60px auto;
+    padding: 30px 50px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    background: rgba(255, 255, 255, 0.95);
+
+    border-radius: 15px;
+    border-top: 5px solid #791d1d;
+}
+.search_container h1 {
+    margin-bottom: 1em;
+}
+
+.search_container p {
+    margin-bottom: 30px;
+}
