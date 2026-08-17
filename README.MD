@@ -6,10 +6,10 @@
 
 Repositório destinado ao estudo, prática e documentação dos conceitos fundamentais e avançados do ecossistema React.
 
-![React](https://img.shields.io/badge/React-19-blue?logo=react)
-pt](https://img.shields.io/badge/JavaScript-ES6+-yellowpt
-![Status](https://img.shields.io/badge/Status-Em%20Evolss
-![License](https://img.shields.io/badge/Licença-Estrey
+![React](https://img.shields.io/bt-19-blue?logo=react
+![JavaScript](https://img.sh/JavaScript-ES6+-yellow?logo=javascript
+![Status](https://img.shields.iotus-Em%20Evolução-green
+![License](https://img.shields.io/ba-Estudo-orange
 
 </div>
 
