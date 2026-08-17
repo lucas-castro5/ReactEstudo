@@ -1,0 +1,33 @@
+.post_container {
+    max-width: 800px;
+
+    margin: 60px auto;
+    padding: 30px 240px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    background: rgba(255, 255, 255, 0.95);
+
+    border-radius: 15px;
+    border-top: 5px solid #791d1d;
+}
+
+.post_container h3 {
+    margin-bottom: .2em;
+}
+
+.post_container .tags {
+    display: flex;
+    justify-content: center;
+}
+
+.tags p {
+    margin-right: 1em;
+}
+
+.tags span {
+    font-weight: bold;
+}
